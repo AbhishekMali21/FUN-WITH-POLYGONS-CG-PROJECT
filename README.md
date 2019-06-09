@@ -36,6 +36,73 @@ Polygons are named after the number of sides they have.
 ## PRE-REQUISITES
 - Install CodeBlocks software from [codeblocks-17.12mingw-setup.exe](http://www.codeblocks.org/downloads/26).
 - Set up [freeglut library](https://www.transmissionzero.co.uk/software/freeglut-devel/) to codeblocks folder as shown in this [video](https://www.youtube.com/watch?v=NPcnymtP2SE).
-- Or have linux environment to execute this code.
+- Or have linux environment to execute this [code](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/code.cpp).
 
 ## SCREENSHOTS
+---
+- OUTPUT WINDOW TO ENTER THE ORDER OF POLYGON:
+
+![WINDOW](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/window.PNG)
+
+---
+
+- SCREENSHOT OF POLYGON WHEN ORDER IS 3:
+
+![3](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/3.PNG)
+
+---
+
+-	SCREENSHOT OF POLYGON WHEN ORDER IS 4:
+
+![4](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/4.PNG)
+
+---
+
+- SCREENSHOT OF POLYGON WHEN ORDER IS 5:
+
+![5](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/5.PNG)
+
+---
+
+- SCREENSHOT OF POLYGON WHEN ORDER IS 6:
+
+![6](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/6.PNG)
+
+---
+
+- TRIGGERRING POLYGON MOVEMENT USING KEYBOARD INTERRUPT:
+
+![6A](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/6A.PNG)
+
+---
+
+- TRIGGERRING POLYGON MOVEMENT USING MOUSE INTERRUPT:
+
+![6B](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/6B.PNG)
+
+---
+
+## ANIMATIONS
+
+---
+
+- TRIGGERRING POLYGON MOVEMENT USING KEYBOARD INTERRUPT:
+
+![6keyboard](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/6keyboard.gif)
+
+---
+
+- TRIGGERRING POLYGON MOVEMENT USING MOUSE INTERRUPT:
+
+![6mouse](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/Screenshots/6mouse.gif)
+
+---
+
+### CONTRIBUTING
+
+Please read [CONTRIBUTING](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+### LICENSE
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/LICENSE) file for details
+ 

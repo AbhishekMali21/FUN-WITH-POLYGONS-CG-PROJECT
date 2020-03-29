@@ -1,5 +1,25 @@
 # FUN WITH POLYGONS - COMPUTER GRAPHICS PROJECT
 
+
+[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?style=social)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?style=social)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?style=social)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/stargazers)
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?logoColor=important&style=flat-square)
+
+[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?style=flat-square)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?style=flat-square)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT.svg)](http://hits.dwyl.com/AbhishekMali21/FUN-WITH-POLYGONS-CG-PROJECT)
+
+
 ## ABOUT THE PROJECT
 
 The project is designed for supporting different transformation functions and event driven function of OpenGL on primary objects. The project implements the generation of various polygons on the basis of the polygons order entered by the User. 

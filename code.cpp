@@ -17,6 +17,7 @@ struct P
     P(double x=0,double y=0)
     {
         this->x=x,this->y=y;
+	    
     }
 };
 
